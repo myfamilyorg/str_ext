@@ -1,0 +1,3 @@
+[crate]
+	lib = "str_ext"
+[deps]
